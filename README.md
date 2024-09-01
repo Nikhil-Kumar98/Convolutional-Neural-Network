@@ -1,4 +1,4 @@
 # Convolutional-Neural-Network
-Handwritten Digit classification based on the Convolutional Neural Network
+Handwritten Digit classification based on the **Convolutional Neural Network**
 
 The objective of this project is to implement a classification system for handwritten digits using a Convolutional Neural Network (CNN), specifically tailored for the MNIST dataset. The primary goals include developing a robust and efficient CNN model capable of accurately identifying handwritten digits (0-9) based on their pixel intensity values. This involves preprocessing the MNIST dataset, designing and training the CNN, and evaluating its performance in terms of accuracy, precision, recall, and F1-score. Through this endeavor, a comprehensive understanding of applying deep learning methods to image classification tasks will be gained, specifically in the context of handwritten digit recognition using the MNIST dataset.
